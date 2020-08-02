@@ -1,4 +1,5 @@
-Game- Guess the Number.
+#Game- Guess the Number.
+
 This is a Multyplayer game, in which 1st player will hide some number in the game. And the 2nd player have to guess the number in limited chances.
 The game itself will help in guessing the number.
 Run the code for better explaination.
